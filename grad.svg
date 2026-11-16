@@ -1,0 +1,10 @@
+<svg width="480" height="230" viewBox="0 0 480 230" xmlns="http://www.w3.org/2000/svg" font-family="'Pretendard','Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <rect x="0.5" y="0.5" width="479" height="229" rx="16" fill="#F5F7FB" stroke="#E1E7F0"/>
+  <text x="28" y="40" font-size="12" font-weight="700" fill="#3B5B8F" letter-spacing="1">🎓 GRADUATE SCHOOL</text>
+  <rect x="28" y="62" width="64" height="64" rx="14" fill="#E8EEF8"/><text x="60" y="106" text-anchor="middle" font-size="32">📚</text>
+  <text x="108" y="90" font-size="22" font-weight="800" fill="#1C2433" letter-spacing="-0.8">스택오버플로우 대학원</text>
+  <rect x="108" y="102" width="112" height="24" rx="12" fill="#3B5B8F"/><text x="164" y="119" text-anchor="middle" font-size="12" font-weight="800" fill="#FFFFFF">Ctrl+C/V 석사</text>
+  <rect x="28" y="148" width="424" height="58" rx="10" fill="#FFFFFF" stroke="#E1E7F0"/>
+  <text x="44" y="170" font-size="11" font-weight="700" fill="#3B5B8F">학위 논문</text>
+  <text x="44" y="193" font-size="13.5" font-weight="700" fill="#1C2433">「복붙한 코드가 왜 내 컴퓨터에선 되는가」</text>
+</svg>

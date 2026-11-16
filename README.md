@@ -15,6 +15,17 @@
 
   <br><br>
 
+  <!-- 대학원 & 수상 -->
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/grad.svg?v=1" width="59%" alt="스택오버플로우 대학원" />
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/award.svg?v=1" width="38%" alt="수상" />
+
+  <br><br>
+
+  <!-- 경력 (AI 3사) -->
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/ai.svg?v=3" width="100%" alt="AI 3사 공동대표" />
+
+  <br><br>
+
   <!-- 자격증 -->
   <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/certs.svg?v=40" width="100%" alt="보유 자격증" />
 

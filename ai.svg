@@ -1,0 +1,38 @@
+<svg width="800" height="470" viewBox="0 0 800 470" xmlns="http://www.w3.org/2000/svg" font-family="'Pretendard','Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <style>.rk{font-size:11px;font-weight:800;letter-spacing:1px}.n{font-size:16px;font-weight:800}.r{font-size:12.5px;font-weight:600}.q{font-size:13px;font-weight:700;fill:#38445A}</style>
+  <rect x="0.5" y="0.5" width="799" height="469" rx="16" fill="#F5F7FB" stroke="#E1E7F0"/>
+  <text x="28" y="40" font-size="12" font-weight="700" fill="#3B5B8F" letter-spacing="1">💼 CAREER</text>
+  <text x="28" y="76" font-size="22" font-weight="800" fill="#1C2433" letter-spacing="-0.8">AI 3사 공동대표</text>
+  <text x="192" y="76" font-size="14" font-weight="600" fill="#8C9AB3">· 실제로는 프롬프트 복붙 담당</text>
+
+  <!-- 1. Claude -->
+  <rect x="270" y="100" width="260" height="56" rx="12" fill="#1C2433"/>
+  <text x="290" y="122" class="rk" fill="#F2B9A3">👑 왕</text>
+  <circle cx="296" cy="139" r="5" fill="#D97757"/><text x="308" y="144" class="n" fill="#FFFFFF">Claude</text>
+  <text x="510" y="143" text-anchor="end" class="r" fill="#C9D3E4">코드 짜고</text>
+  <!-- 2. GPT -->
+  <rect x="210" y="166" width="380" height="56" rx="12" fill="#3B5B8F"/>
+  <text x="230" y="188" class="rk" fill="#AFE3CF">귀족</text>
+  <circle cx="236" cy="205" r="5" fill="#10A37F"/><text x="248" y="210" class="n" fill="#FFFFFF">GPT</text>
+  <text x="570" y="209" text-anchor="end" class="r" fill="#D5E0F2">코드 고치고</text>
+  <!-- 3. 본인 -->
+  <rect x="150" y="232" width="500" height="56" rx="12" fill="#E8EEF8" stroke="#C9D6EA"/>
+  <text x="170" y="254" class="rk" fill="#3B5B8F">평민</text>
+  <text x="170" y="276" class="n" fill="#1C2433">🧑 본인</text>
+  <rect x="470" y="248" width="62" height="24" rx="5" fill="#FFFFFF" stroke="#C9D6EA"/><text x="501" y="265" text-anchor="middle" font-size="12" font-weight="800" fill="#1C2433">Ctrl+V</text>
+  <text x="544" y="265" font-size="12" font-weight="700" fill="#8C9AB3">+</text>
+  <rect x="558" y="248" width="72" height="24" rx="5" fill="#FFFFFF" stroke="#C9D6EA"/><text x="594" y="265" text-anchor="middle" font-size="12" font-weight="800" fill="#1C2433">Enter ↵</text>
+  <!-- 4. Gemini -->
+  <rect x="90" y="298" width="620" height="56" rx="12" fill="#FFFFFF" stroke="#E1E7F0"/>
+  <text x="110" y="320" class="rk" fill="#8C9AB3">노예</text>
+  <circle cx="116" cy="337" r="5" fill="#4285F4"/><text x="128" y="342" class="n" fill="#1C2433">Gemini</text>
+  <text x="690" y="341" text-anchor="end" class="r" fill="#5B6880">코드 검토함</text>
+
+  <line x1="28" y1="378" x2="772" y2="378" stroke="#E1E7F0"/>
+  <rect x="28" y="394" width="364" height="54" rx="12" fill="#FFFFFF" stroke="#E1E7F0"/>
+  <text x="44" y="416" font-size="11" font-weight="700" fill="#3B5B8F">업무 방식</text>
+  <text x="44" y="437" class="q">"답이 마음에 안 들면 다른 AI한테 물어봄"</text>
+  <rect x="408" y="394" width="364" height="54" rx="12" fill="#FDE8E4" stroke="#F7CFC6"/>
+  <text x="424" y="416" font-size="11" font-weight="700" fill="#E8654F">특기</text>
+  <text x="424" y="437" class="q">"다른 AI는 된다던데요" 화법 마스터</text>
+</svg>
