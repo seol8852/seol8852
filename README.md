@@ -1,11 +1,11 @@
 ﻿<div align="center">
 
-  <!-- 상단 물결 배너: 주범 / 설마 Q&A 배치 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%F0%9F%9A%A8%20Q.%20%EC%9D%B4%EB%B2%88%20%EB%B0%B0%ED%8F%AC%EB%A1%9C%20%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%20%EC%84%9C%EB%B2%84%20%ED%84%B0%EB%94%A8%20%EC%A3%BC%5B%EB%B2%94%5D%EC%9D%B4%20%EB%88%84%EA%B5%AC%EC%A3%A0?&fontSize=22&subtext=%F0%9F%91%80%20A.%20%5B%EC%84%A4%5D%EB%A7%88...%20%5B%EB%B2%94%5D%EC%9D%B8%EC%9D%B4%20%EC%A0%80%20%EC%84%A4%5B%EB%B2%94%EC%A4%80%5D%EC%9D%B4%EA%B2%A0%EC%8A%B5%EB%8B%88%EA%B9%8C%3F%20%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F&subfontSize=17" width="100%" />
+  <!-- 상단 Q&A 배너 (글자 절대 안 잘리는 와이드 배너) -->
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/header.svg?v=1" width="100%" alt="Incident Q&A Header" />
 
   <br><br>
 
-  <!-- 야무진 프리미엄 다크 카드 (큼직한 글씨 & 고급스러운 인디고 슬레이트 배경) -->
+  <!-- 메인 철학 카드 (큼직한 글씨 & 고급스러운 다크 그라디언트 배경) -->
   <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/banner.svg?v=5" width="100%" alt="Philosophy Banner" />
 
   <br><br>
