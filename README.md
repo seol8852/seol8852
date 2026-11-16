@@ -6,7 +6,7 @@
   <br><br>
 
   <!-- 사이버펑크 네온 사인 그래픽 카드 -->
-  <img src="./banner.svg" width="100%" alt="Seol Beom Jun Neon Sign" />
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/banner.svg?v=2" width="100%" alt="Seol Beom Jun Neon Sign" />
 
   <br><br>
 
@@ -47,3 +47,4 @@
   </p>
 
 </div>
+
