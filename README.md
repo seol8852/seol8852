@@ -1,12 +1,12 @@
 ﻿<div align="center">
 
-  <!-- 헤더 배너 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Seol%20Beom%20Jun&fontSize=42&subtext=System%20Design%20•%20Scope%20•%20Standards&subfontSize=16" width="100%" />
+  <!-- 재미있는 헤더 배너 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=180&section=header&text=%EC%A0%95%EA%B7%9C%EC%95%BC,%20%EB%B3%B4%EA%B3%A0%20%EC%9E%88%EB%83%90?&fontSize=42&subtext=%EC%A0%95%EA%B7%9C%ED%99%94%ED%95%A0%20%EC%8B%9C%EA%B0%84%EC%97%90%20%EC%BB%A4%ED%94%BC%EB%82%98%20%ED%83%80%EC%99%80%EB%9D%BC%20%E2%98%95&subfontSize=16" width="100%" />
 
   <br><br>
 
-  <!-- 맥북 터미널 그래픽 카드 -->
-  <img src="banner.svg" width="100%" alt="Seol Beom Jun Terminal" />
+  <!-- 사이버펑크 네온 사인 그래픽 카드 -->
+  <img src="banner.svg" width="100%" alt="Seol Beom Jun Neon Sign" />
 
   <br><br>
 

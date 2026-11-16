@@ -1,74 +1,106 @@
-﻿<svg fill="none" viewBox="0 0 800 340" width="800" height="340" xmlns="http://www.w3.org/2000/svg">
+﻿<svg fill="none" viewBox="0 0 800 370" width="800" height="370" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .terminal {
-          background: #0d1117;
-          border: 1px solid #30363d;
-          border-radius: 12px;
-          padding: 26px 32px;
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Fira Code", monospace;
-          color: #c9d1d9;
-          box-shadow: 0 12px 30px rgba(0,0,0,0.5);
+        @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding:wght@700&amp;family=Orbitron:wght@700;900&amp;display=swap');
+
+        .neon-card {
+          background: radial-gradient(circle at 50% 40%, #150d2a 0%, #080511 70%, #030206 100%);
+          border: 3px solid #ff2a85;
+          border-radius: 20px;
+          padding: 30px 36px;
+          box-shadow: 
+            0 0 15px rgba(255, 42, 133, 0.6),
+            0 0 35px rgba(255, 42, 133, 0.3),
+            inset 0 0 20px rgba(255, 42, 133, 0.35);
+          font-family: 'Nanum Gothic Coding', -apple-system, BlinkMacSystemFont, "Segoe UI", monospace;
+          color: #ffffff;
+          box-sizing: border-box;
+          position: relative;
         }
-        .header {
-          display: flex;
-          align-items: center;
-          margin-bottom: 24px;
-        }
-        .dot { width: 12px; height: 12px; border-radius: 50%; display: inline-block; margin-right: 8px; }
-        .red { background: #ff5f56; }
-        .yellow { background: #ffbd2e; }
-        .green { background: #27c93f; }
-        .title { color: #8b949e; font-size: 13px; margin-left: 10px; font-weight: 500; }
-        .quote {
-          font-size: 21px;
-          font-weight: 700;
-          color: #58a6ff;
+
+        /* Neon Header Sign */
+        .neon-sign-badge {
+          display: inline-block;
+          font-family: 'Orbitron', monospace;
+          font-size: 12px;
+          letter-spacing: 3px;
+          color: #00ffff;
+          border: 1.5px solid #00ffff;
+          border-radius: 20px;
+          padding: 4px 14px;
           margin-bottom: 22px;
-          text-shadow: 0 0 12px rgba(88,166,255,0.3);
+          text-shadow: 0 0 8px #00ffff, 0 0 18px #00ffff;
+          box-shadow: 0 0 10px rgba(0, 255, 255, 0.4), inset 0 0 8px rgba(0, 255, 255, 0.2);
         }
-        .line {
+
+        /* Main Punchline Quote - Cyan Neon */
+        .neon-quote {
+          font-size: 23px;
+          font-weight: 700;
+          color: #ffffff;
+          text-shadow:
+            0 0 5px #fff,
+            0 0 10px #fff,
+            0 0 20px #00f0ff,
+            0 0 40px #00f0ff,
+            0 0 60px #0077ff;
+          margin-bottom: 24px;
+          letter-spacing: -0.5px;
+        }
+
+        /* Body lines */
+        .neon-line {
           font-size: 16px;
-          line-height: 1.9;
-          color: #e6edf3;
+          line-height: 2.1;
+          color: #e2e8f0;
+          text-shadow: 0 0 2px rgba(255,255,255,0.8);
         }
-        .highlight {
-          color: #f0883e;
-          font-weight: 800;
-          background: rgba(240,136,62,0.15);
-          padding: 2px 6px;
-          border-radius: 4px;
-          margin: 0 2px;
+
+        /* Glowing Neon Points [설] [범] [준] */
+        .neon-highlight {
+          color: #ffe600;
+          font-weight: 900;
+          font-size: 18px;
+          text-shadow:
+            0 0 5px #fff,
+            0 0 10px #ffe600,
+            0 0 25px #ff9900;
+          padding: 0 2px;
         }
-        .footer {
-          margin-top: 18px;
-          padding-top: 16px;
-          border-top: 1px dashed #30363d;
-          font-size: 17px;
-          color: #7ee787;
-          font-weight: 600;
+
+        /* Bottom Footer - Pink Neon Glow */
+        .neon-footer {
+          margin-top: 20px;
+          padding-top: 18px;
+          border-top: 1px dashed rgba(255, 42, 133, 0.4);
+          font-size: 18px;
+          font-weight: 700;
+          color: #ffffff;
+          text-shadow:
+            0 0 4px #fff,
+            0 0 12px #ff2a85,
+            0 0 30px #ff2a85,
+            0 0 45px #ff0055;
         }
       </style>
 
-      <div class="terminal">
-        <div class="header">
-          <span class="dot red"></span>
-          <span class="dot yellow"></span>
-          <span class="dot green"></span>
-          <span class="title">bash - seol_beom_jun.sh</span>
+      <div class="neon-card">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <span class="neon-sign-badge">⚡ LIVE ON AIR • DEV_STUDIO</span>
+          <span style="color: #ff2a85; font-size: 13px; text-shadow: 0 0 8px #ff2a85;">● OPEN 24/7</span>
         </div>
 
-        <div class="quote">
+        <div class="neon-quote">
           "정규야, 네가 '정규화'할 때 난 '설계'한다."
         </div>
 
-        <div class="line">⚙️ 시스템 <span class="highlight">[설]</span>계부터</div>
-        <div class="line">🔍 변수 유효 <span class="highlight">[범]</span>위 체크,</div>
-        <div class="line">📏 코딩 표준 <span class="highlight">[준]</span>수까지.</div>
+        <div class="neon-line">⚙️ 시스템 <span class="neon-highlight">[설]</span>계부터</div>
+        <div class="neon-line">🔍 변수 유효 <span class="neon-highlight">[범]</span>위 체크,</div>
+        <div class="neon-line">📏 코딩 표준 <span class="neon-highlight">[준]</span>수까지.</div>
 
-        <div class="footer">
-          완벽하게 <span class="highlight">[준]</span>비된 개발자, 설범준입니다.
+        <div class="neon-footer">
+          완벽하게 <span class="neon-highlight">[준]</span>비된 개발자, 설범준입니다. 🍸
         </div>
       </div>
     </div>
