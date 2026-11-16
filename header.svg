@@ -1,19 +1,9 @@
-<svg width="800" height="170" viewBox="0 0 800 170" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="170" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1220"/><stop offset=".56" stop-color="#111B30"/><stop offset="1" stop-color="#1B2944"/></linearGradient>
-    <linearGradient id="accent" x1="0" x2="800" y1="0" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#5EEAD4"/><stop offset=".55" stop-color="#7DD3FC"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
-    <radialGradient id="glow"><stop stop-color="#60A5FA" stop-opacity=".22"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/></radialGradient>
-    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#A5B4FC" opacity=".15"/></pattern>
-    <clipPath id="clip"><rect x="8" y="8" width="784" height="154" rx="20"/></clipPath>
-  </defs>
-  <rect x="8" y="8" width="784" height="154" rx="20" fill="url(#bg)" stroke="#38506F" stroke-width="1.5"/>
-  <g clip-path="url(#clip)"><rect x="8" y="8" width="784" height="154" fill="url(#dots)"/><ellipse cx="690" cy="50" rx="240" ry="160" fill="url(#glow)"/><path d="M8 11H792" stroke="url(#accent)" stroke-width="5"/><circle cx="747" cy="124" r="91" stroke="#9EDCF7" stroke-opacity=".13"/><circle cx="747" cy="124" r="66" stroke="#9EDCF7" stroke-opacity=".12"/></g>
-  <rect x="35" y="41" width="4" height="32" rx="2" fill="#5EEAD4"/><rect x="35" y="96" width="4" height="32" rx="2" fill="#C4B5FD"/>
-  <text x="57" y="67" fill="#F7FAFF" font-family="Pretendard, 'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="20" font-weight="800" letter-spacing="-.6">
-    🚨 Q. 이번 배포로 프로덕션 서버 터뜨린 주<tspan fill="#5EEAD4" font-weight="900">[범]</tspan>이 누구죠?
-  </text>
-  <path d="M57 85H726" stroke="#9CB5D3" stroke-opacity=".25"/>
-  <text x="57" y="121" fill="#E9F1FF" font-family="Pretendard, 'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="19" font-weight="800" letter-spacing="-.5">
-    👀 A. <tspan fill="#C4B5FD" font-weight="900">[설]</tspan>마... <tspan fill="#C4B5FD" font-weight="900">[범]</tspan>인이 저 설<tspan fill="#C4B5FD" font-weight="900">[범준]</tspan>이겠습니까? 🤷‍♂️
-  </text>
+<svg width="800" height="170" viewBox="0 0 800 170" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="798" height="168" rx="10" fill="#F4F1E9" stroke="#D9D8CE" stroke-width="2"/>
+  <path d="M32 29H768" stroke="#C5C8BD" stroke-width="1"/>
+  <path d="M32 87H768" stroke="#C5C8BD" stroke-width="1"/>
+  <path d="M32 145H768" stroke="#C5C8BD" stroke-width="1"/>
+  <path d="M32 28H110" stroke="#F26B4F" stroke-width="3"/>
+  <text x="39" y="66" fill="#222A27" font-family="'Pretendard', 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.7">🚨 Q. 이번 배포로 프로덕션 서버 터뜨린 주<tspan fill="#E75D43" font-weight="900">[범]</tspan>이 누구죠?</text>
+  <text x="39" y="124" fill="#222A27" font-family="'Pretendard', 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="19" font-weight="700" letter-spacing="-0.65">👀 A. <tspan fill="#E75D43" font-weight="900">[설]</tspan>마... <tspan fill="#E75D43" font-weight="900">[범]</tspan>인이 저 설<tspan fill="#E75D43" font-weight="900">[범준]</tspan>이겠습니까? 🤷‍♂️</text>
 </svg>

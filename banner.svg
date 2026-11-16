@@ -1,24 +1,15 @@
-<svg width="800" height="340" viewBox="0 0 800 340" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1220"/><stop offset=".56" stop-color="#111B30"/><stop offset="1" stop-color="#1B2944"/></linearGradient>
-    <linearGradient id="accent" x1="0" x2="800" y1="0" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#5EEAD4"/><stop offset=".55" stop-color="#7DD3FC"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
-    <radialGradient id="glow"><stop stop-color="#60A5FA" stop-opacity=".2"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/></radialGradient>
-    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#A5B4FC" opacity=".13"/></pattern>
-    <clipPath id="clip"><rect x="8" y="8" width="784" height="324" rx="20"/></clipPath>
-  </defs>
-  <rect x="8" y="8" width="784" height="324" rx="20" fill="url(#bg)" stroke="#38506F" stroke-width="1.5"/>
-  <g clip-path="url(#clip)"><rect x="8" y="8" width="784" height="324" fill="url(#dots)"/><ellipse cx="690" cy="60" rx="340" ry="240" fill="url(#glow)"/><path d="M8 11H792" stroke="url(#accent)" stroke-width="5"/><circle cx="735" cy="99" r="149" stroke="#9EDCF7" stroke-opacity=".12"/><circle cx="735" cy="99" r="111" stroke="#9EDCF7" stroke-opacity=".1"/></g>
-  <rect x="38" y="35" width="148" height="27" rx="13.5" fill="#5EEAD4" fill-opacity=".12" stroke="#5EEAD4" stroke-opacity=".5"/>
-  <text x="112" y="53" text-anchor="middle" fill="#78EEDC" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="800" letter-spacing="1.5">CORE PHILOSOPHY</text>
-  <text x="40" y="105" fill="#F8FAFF" font-family="Pretendard, 'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="26" font-weight="900" letter-spacing="-.9">"정규야, 네가 '정규화'할 때 난 '설계'한다."</text>
-  <path d="M40 126H760" stroke="url(#accent)" stroke-opacity=".5"/>
-  <rect x="38" y="143" width="724" height="39" rx="10" fill="#E1F4FF" fill-opacity=".06" stroke="#A5C9ED" stroke-opacity=".14"/>
-  <rect x="38" y="188" width="724" height="39" rx="10" fill="#E1F4FF" fill-opacity=".06" stroke="#A5C9ED" stroke-opacity=".14"/>
-  <rect x="38" y="233" width="724" height="39" rx="10" fill="#E1F4FF" fill-opacity=".06" stroke="#A5C9ED" stroke-opacity=".14"/>
-  <path d="M39.5 144V181" stroke="#5EEAD4" stroke-width="3"/><path d="M39.5 189V226" stroke="#7DD3FC" stroke-width="3"/><path d="M39.5 234V271" stroke="#C4B5FD" stroke-width="3"/>
-  <text x="55" y="169" fill="#EAF2FF" font-family="Pretendard, 'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" letter-spacing="-.4">⚙️   시스템 <tspan fill="#5EEAD4" font-weight="900">[설]</tspan>계부터</text>
-  <text x="55" y="214" fill="#EAF2FF" font-family="Pretendard, 'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" letter-spacing="-.4">🔍   변수 유효 <tspan fill="#7DD3FC" font-weight="900">[범]</tspan>위 체크,</text>
-  <text x="55" y="259" fill="#EAF2FF" font-family="Pretendard, 'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" letter-spacing="-.4">📏   코딩 표준 <tspan fill="#C4B5FD" font-weight="900">[준]</tspan>수까지.</text>
-  <path d="M40 289H760" stroke="#9CB5D3" stroke-opacity=".28"/>
-  <text x="43" y="313" fill="#B8C9E1" font-family="Pretendard, 'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" font-weight="700" letter-spacing="-.2">🚀  완벽하게 <tspan fill="#5EEAD4" font-weight="900">[준]</tspan>비된 개발자, 설범준</text>
+<svg width="800" height="340" viewBox="0 0 800 340" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="798" height="338" rx="10" fill="#F4F1E9" stroke="#D9D8CE" stroke-width="2"/>
+  <path d="M32 29H768" stroke="#C5C8BD"/>
+  <path d="M32 28H110" stroke="#F26B4F" stroke-width="3"/>
+  <text x="39" y="51" fill="#626A63" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="800" letter-spacing="2">CORE PHILOSOPHY</text>
+  <text x="39" y="102" fill="#19221E" font-family="'Pretendard', 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="27" font-weight="900" letter-spacing="-1">"정규야, 네가 '정규화'할 때 난 '설계'한다."</text>
+  <path d="M32 127H768" stroke="#BFC4B8"/>
+  <path d="M32 179H768" stroke="#D3D5CB"/>
+  <path d="M32 231H768" stroke="#D3D5CB"/>
+  <path d="M32 283H768" stroke="#BFC4B8"/>
+  <text x="39" y="163" fill="#27302B" font-family="'Pretendard', 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.5">⚙️   시스템 <tspan fill="#E75D43" font-weight="900">[설]</tspan>계부터</text>
+  <text x="39" y="215" fill="#27302B" font-family="'Pretendard', 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.5">🔍   변수 유효 <tspan fill="#E75D43" font-weight="900">[범]</tspan>위 체크,</text>
+  <text x="39" y="267" fill="#27302B" font-family="'Pretendard', 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.5">📏   코딩 표준 <tspan fill="#E75D43" font-weight="900">[준]</tspan>수까지.</text>
+  <text x="39" y="316" fill="#626A63" font-family="'Pretendard', 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="14" font-weight="700" letter-spacing="-0.2">🚀  완벽하게 <tspan fill="#E75D43" font-weight="900">[준]</tspan>비된 개발자, 설범준</text>
 </svg>
