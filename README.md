@@ -1,33 +1,33 @@
 <div align="center">
 
   <!-- 상단 Q&A 배너 -->
-  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/header.svg?v=40" width="100%" alt="Incident Q&A Header" />
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/header.svg?v=60" width="100%" alt="Incident Q&A Header" />
   <br><br>
 
   <!-- 메인 철학 카드 -->
-  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/banner.svg?v=40" width="100%" alt="Philosophy Banner" />
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/banner.svg?v=60" width="100%" alt="Philosophy Banner" />
   <br><br>
 
 
   <!-- 학력 & 상태 -->
-  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/education.svg?v=40" width="59%" alt="Education - 와플대학교" />
-  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/status.svg?v=40" width="38%" alt="오늘의 상태" />
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/education.svg?v=60" width="59%" alt="Education - 와플대학교" />
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/status.svg?v=60" width="38%" alt="오늘의 상태" />
 
   <br><br>
 
   <!-- 대학원 & 수상 -->
-  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/grad.svg?v=1" width="59%" alt="스택오버플로우 대학원" />
-  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/award.svg?v=1" width="38%" alt="수상" />
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/grad.svg?v=60" width="59%" alt="스택오버플로우 대학원" />
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/award.svg?v=60" width="38%" alt="수상" />
 
   <br><br>
 
   <!-- 경력 (AI 3사) -->
-  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/ai.svg?v=3" width="100%" alt="AI 3사 공동대표" />
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/ai.svg?v=60" width="100%" alt="AI 3사 공동대표" />
 
   <br><br>
 
   <!-- 자격증 -->
-  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/certs.svg?v=40" width="100%" alt="보유 자격증" />
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/certs.svg?v=60" width="100%" alt="보유 자격증" />
 
   <br><br>
 
@@ -45,13 +45,13 @@
 
   <!-- 깃허브 통계 카드 & 최다 사용 언어 -->
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=seol8852&show_icons=true&hide_border=false&border_color=E1E7F0&border_radius=12&bg_color=F5F7FB&title_color=1C2433&icon_color=3B5B8F&text_color=38445A" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seol8852&layout=compact&hide_border=false&border_color=E1E7F0&border_radius=12&bg_color=F5F7FB&title_color=1C2433&text_color=38445A" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seol8852&show_icons=true&hide_border=false&border_color=E6E9F0&border_radius=20&bg_color=FFFFFF&title_color=1C2433&icon_color=E8654F&text_color=38445A" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seol8852&layout=compact&hide_border=false&border_color=E6E9F0&border_radius=20&bg_color=FFFFFF&title_color=1C2433&text_color=38445A" height="170" />
 
   <br>
 
   <!-- 연속 잔디 스트릭 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seol8852&hide_border=false&border_color=E1E7F0&border_radius=12&background=F5F7FB&ring=3B5B8F&fire=E8654F&currStreakLabel=3B5B8F&sideLabels=6B6B66&currStreakNum=1C2433&sideNums=1C2433&dates=9A9A94&stroke=E1E7F0" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seol8852&hide_border=false&border_color=E6E9F0&border_radius=20&background=FFFFFF&ring=2F4A7A&fire=E8654F&currStreakLabel=2F4A7A&sideLabels=6B6B66&currStreakNum=1C2433&sideNums=1C2433&dates=9A9A94&stroke=E1E7F0" width="100%" />
 
   <br><br>
 
@@ -63,7 +63,44 @@
   <!-- 방문자 수 카운터 -->
   <p>
     👀 Profile Views: 
-    <img src="https://komarev.com/ghpvc/?username=seol8852&style=flat-square&color=3B5B8F&label=VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=seol8852&style=flat-square&color=2F4A7A&label=VIEWS" alt="Profile Views" />
   </p>
 
+</div>
+
+<div align="center">
+
+<h3>🚀 Project Gallery</h3>
+
+<p>직접 만들고 GitHub Pages로 배포한 프로젝트들이에요. <b>카드를 누르면 바로 실행</b>됩니다.</p>
+
+</div>
+
+<p align="center">
+  <a href="https://seol8852.github.io/my-web-projects/usa-roadtrip/"><img src="https://raw.githubusercontent.com/seol8852/seol8852/main/project-roadtrip.svg?v=1" width="49%" alt="대륙횡단 10,786 km" /></a>
+  <a href="https://seol8852.github.io/my-web-projects/tokyo-trip/"><img src="https://raw.githubusercontent.com/seol8852/seol8852/main/project-tokyo.svg?v=1" width="49%" alt="도쿄 핫플 성지순례" /></a>
+</p>
+<p align="center">
+  <a href="https://seol8852.github.io/my-web-projects/chiikawa-web/"><img src="https://raw.githubusercontent.com/seol8852/seol8852/main/project-webworld.svg?v=1" width="49%" alt="치이카와 웹 월드" /></a>
+  <a href="https://seol8852.github.io/my-web-projects/madmax-witness-me/"><img src="https://raw.githubusercontent.com/seol8852/seol8852/main/project-witness.svg?v=1" width="49%" alt="WITNESS ME!" /></a>
+</p>
+<p align="center">
+  <a href="https://seol8852.github.io/my-web-projects/smoke-action-game/"><img src="https://raw.githubusercontent.com/seol8852/seol8852/main/project-smoke.svg?v=1" width="49%" alt="스모크 액션 게임" /></a>
+  <a href="https://seol8852.github.io/my-web-projects/bj-solution/"><img src="https://raw.githubusercontent.com/seol8852/seol8852/main/project-swl5.svg?v=1" width="49%" alt="SWL5 마스터" /></a>
+</p>
+<p align="center">
+  <a href="https://seol8852.github.io/my-web-projects/myopic-segmentation/"><img src="https://raw.githubusercontent.com/seol8852/seol8852/main/project-retina.svg?v=1" width="49%" alt="망막 위축 병변 AI 분할" /></a>
+  <a href="https://seol8852.github.io/my-web-projects/chiikawa-action-game/"><img src="https://raw.githubusercontent.com/seol8852/seol8852/main/project-striker.svg?v=1" width="49%" alt="치이카와 스트라이커" /></a>
+</p>
+<p align="center">
+  <a href="https://seol8852.github.io/my-web-projects/chiikawa-jungchogi/"><img src="https://raw.githubusercontent.com/seol8852/seol8852/main/project-jungchogi.svg?v=1" width="49%" alt="정처기 실기 코딩 100제" /></a>
+  <a href="https://seol8852.github.io/my-web-projects/chiikawa-3d-world/"><img src="https://raw.githubusercontent.com/seol8852/seol8852/main/project-3dworld.svg?v=1" width="49%" alt="3D 오픈월드 빌리지" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/seol8852/Talking_Photato"><img src="https://raw.githubusercontent.com/seol8852/seol8852/main/project-spotlog.svg?v=1" width="49%" alt="SpotLog" /></a>
+  <a href="https://seol8852.github.io/my-web-projects/"><img src="https://raw.githubusercontent.com/seol8852/seol8852/main/project-more.svg?v=1" width="49%" alt="전체 프로젝트 허브" /></a>
+</p>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/seol8852/seol8852/main/footer.svg?v=1" width="100%" alt="Thanks for visiting" />
 </div>
