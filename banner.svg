@@ -1,55 +1,40 @@
 <svg width="800" height="420" viewBox="0 0 800 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Neon Pink Glow -->
-    <filter id="neon-pink" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#ff2a85" flood-opacity="0.8"/>
-      <feDropShadow dx="0" dy="0" stdDeviation="14" flood-color="#ff2a85" flood-opacity="0.5"/>
+    <!-- Subtle drop shadow -->
+    <filter id="card-shadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.45"/>
     </filter>
-
-    <!-- Neon Cyan Glow -->
-    <filter id="neon-cyan" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#00f0ff" flood-opacity="0.9"/>
-      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#0077ff" flood-opacity="0.7"/>
-    </filter>
-
-    <!-- Neon Gold Glow -->
-    <filter id="neon-gold" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#ffe600" flood-opacity="0.9"/>
-      <feDropShadow dx="0" dy="0" stdDeviation="9" flood-color="#ff9900" flood-opacity="0.7"/>
-    </filter>
-
-    <!-- Radial Card Gradient -->
-    <radialGradient id="card-bg" cx="50%" cy="30%" r="70%">
-      <stop offset="0%" stop-color="#180e30"/>
-      <stop offset="70%" stop-color="#0a0614"/>
-      <stop offset="100%" stop-color="#040208"/>
-    </radialGradient>
   </defs>
 
-  <!-- Outer Neon Frame & Dark Background -->
-  <rect x="12" y="12" width="776" height="396" rx="20" fill="url(#card-bg)" stroke="#ff2a85" stroke-width="3" filter="url(#neon-pink)"/>
+  <!-- Card Background -->
+  <rect x="12" y="12" width="776" height="396" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.2" filter="url(#card-shadow)"/>
 
-  <!-- Top Badges -->
-  <rect x="36" y="34" width="230" height="26" rx="13" fill="none" stroke="#00ffff" stroke-width="1.5" filter="url(#neon-cyan)"/>
-  <text x="151" y="51" fill="#00ffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="2" text-anchor="middle">⚡ LIVE ON AIR • DEV_STUDIO</text>
-  <text x="748" y="52" fill="#ff2a85" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" text-anchor="end" filter="url(#neon-pink)">● OPEN 24/7</text>
+  <!-- Terminal Top Bar -->
+  <path d="M 12 26 A 14 14 0 0 1 26 12 L 774 12 A 14 14 0 0 1 788 26 L 788 48 L 12 48 Z" fill="#161b22"/>
+  <line x1="12" y1="48" x2="788" y2="48" stroke="#30363d" stroke-width="1"/>
 
-  <!-- Main Punchline Quote -->
-  <text x="36" y="105" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Malgun Gothic', sans-serif" font-size="22" font-weight="800" filter="url(#neon-cyan)">"정규야, 네가 '정규화'할 때 난 '설계'한다."</text>
+  <!-- macOS Window Buttons -->
+  <circle cx="34" cy="30" r="6" fill="#ff5f56"/>
+  <circle cx="54" cy="30" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="30" r="6" fill="#27c93f"/>
+
+  <!-- Window Title -->
+  <text x="400" y="34" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" text-anchor="middle">terminal — bash seol_beom_jun.sh</text>
+
+  <!-- Main Quote (Crisp & Readable) -->
+  <text x="40" y="98" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Malgun Gothic', sans-serif" font-size="21" font-weight="800">"정규야, 네가 '정규화'할 때 난 '설계'한다."</text>
 
   <!-- 3 Combo Lines -->
-  <text x="36" y="146" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Malgun Gothic', sans-serif" font-size="16">⚙️ 시스템 <tspan fill="#ffe600" font-weight="800" filter="url(#neon-gold)">[설]</tspan>계부터</text>
-  <text x="36" y="177" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Malgun Gothic', sans-serif" font-size="16">🔍 변수 유효 <tspan fill="#ffe600" font-weight="800" filter="url(#neon-gold)">[범]</tspan>위 체크,</text>
-  <text x="36" y="208" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Malgun Gothic', sans-serif" font-size="16">📏 코딩 표준 <tspan fill="#ffe600" font-weight="800" filter="url(#neon-gold)">[준]</tspan>수까지.</text>
+  <text x="40" y="142" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Malgun Gothic', sans-serif" font-size="15.5">⚙️  시스템 <tspan fill="#f0883e" font-weight="800">[설]</tspan>계부터</text>
+  <text x="40" y="174" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Malgun Gothic', sans-serif" font-size="15.5">🔍  변수 유효 <tspan fill="#f0883e" font-weight="800">[범]</tspan>위 체크,</text>
+  <text x="40" y="206" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Malgun Gothic', sans-serif" font-size="15.5">📏  코딩 표준 <tspan fill="#f0883e" font-weight="800">[준]</tspan>수까지.</text>
 
-  <!-- Incident Dialogue Box -->
-  <rect x="36" y="235" width="728" height="88" rx="12" fill="#ffffff" fill-opacity="0.04" stroke="#00f0ff" stroke-width="1.2" stroke-opacity="0.4"/>
-  <text x="54" y="268" fill="#ff6b81" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Malgun Gothic', sans-serif" font-size="15" font-weight="600">🚨 Q. 이번 배포로 프로덕션 서버 터뜨린 주<tspan fill="#ffe600" font-weight="800" filter="url(#neon-gold)">[범]</tspan>이 누구죠?</text>
-  <text x="54" y="300" fill="#70a1ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700">👀 A. <tspan fill="#ffe600" font-weight="800" filter="url(#neon-gold)">[설]</tspan>마... <tspan fill="#ffe600" font-weight="800" filter="url(#neon-gold)">[범]</tspan>인이 저 설<tspan fill="#ffe600" font-weight="800" filter="url(#neon-gold)">[범준]</tspan>이겠습니까? 🤷‍♂️</text>
+  <!-- Q&A Callout Box -->
+  <rect x="40" y="235" width="720" height="84" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="60" y="268" fill="#f85149" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Malgun Gothic', sans-serif" font-size="14.5" font-weight="600">🚨 Q. 이번 배포로 프로덕션 서버 터뜨린 주<tspan fill="#f0883e" font-weight="800">[범]</tspan>이 누구죠?</text>
+  <text x="60" y="299" fill="#7ee787" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Malgun Gothic', sans-serif" font-size="14.5" font-weight="700">👀 A. <tspan fill="#f0883e" font-weight="800">[설]</tspan>마... <tspan fill="#f0883e" font-weight="800">[범]</tspan>인이 저 설<tspan fill="#f0883e" font-weight="800">[범준]</tspan>이겠습니까? 🤷‍♂️</text>
 
-  <!-- Divider Line -->
-  <line x1="36" y1="344" x2="764" y2="344" stroke="#ff2a85" stroke-opacity="0.35" stroke-dasharray="6,4"/>
-
-  <!-- Footer Punchline -->
-  <text x="36" y="380" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Malgun Gothic', sans-serif" font-size="18" font-weight="800" filter="url(#neon-pink)">완벽하게 <tspan fill="#ffe600" font-weight="800" filter="url(#neon-gold)">[준]</tspan>비된 개발자, 설범준입니다. 🍸</text>
+  <!-- Footer Line -->
+  <line x1="40" y1="344" x2="760" y2="344" stroke="#21262d" stroke-width="1"/>
+  <text x="40" y="380" fill="#2f81f7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700">🚀 완벽하게 <tspan fill="#f0883e" font-weight="800">[준]</tspan>비된 개발자, 설범준입니다.</text>
 </svg>
