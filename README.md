@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   <!-- 상단 Q&A 배너 -->
   <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/header.svg?v=3" width="100%" alt="Incident Q&A Header" />
@@ -9,6 +9,17 @@
   <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/banner.svg?v=7" width="100%" alt="Philosophy Banner" />
 
   <br><br>
+
+  
+  <br><br>
+
+  <!-- 학력 (와플대학교) -->
+  <h3>🎓 Education</h3>
+  <p>
+    🧇 <b>와플대학교</b> 컴퓨터공학부 (수석 입학)<br>
+    <i>• 전공: 애플시나몬 크런치 코딩 전공 (토핑: 카페인 샷 추가 ☕)</i><br>
+    <i>• 비고: 와플 굽듯이 매일 서버 노릇노릇하게 태워먹는 중 🔥</i>
+  </p>
 
   <!-- 기술 스택 -->
   <h3>🛠 Tech Stack</h3>
