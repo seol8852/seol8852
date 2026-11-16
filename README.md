@@ -1,12 +1,12 @@
 ﻿<div align="center">
 
   <!-- 상단 Q&A 배너 (글자 절대 안 잘리는 와이드 배너) -->
-  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/header.svg?v=1" width="100%" alt="Incident Q&A Header" />
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/header.svg?v=2" width="100%" alt="Incident Q&A Header" />
 
   <br><br>
 
   <!-- 메인 철학 카드 (큼직한 글씨 & 고급스러운 다크 그라디언트 배경) -->
-  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/banner.svg?v=5" width="100%" alt="Philosophy Banner" />
+  <img src="https://raw.githubusercontent.com/seol8852/seol8852/main/banner.svg?v=6" width="100%" alt="Philosophy Banner" />
 
   <br><br>
 
