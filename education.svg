@@ -1,0 +1,13 @@
+<svg width="480" height="290" viewBox="0 0 480 290" xmlns="http://www.w3.org/2000/svg" font-family="'Pretendard','Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <style>.k{font-size:11px;font-weight:700;fill:#3B5B8F}.v{font-size:12.5px;font-weight:600;fill:#38445A}</style>
+  <rect x="0.5" y="0.5" width="479" height="289" rx="16" fill="#F5F7FB" stroke="#E1E7F0"/>
+  <text x="28" y="40" font-size="12" font-weight="700" fill="#3B5B8F" letter-spacing="1">🎓 EDUCATION</text>
+  <rect x="28" y="62" width="64" height="64" rx="14" fill="#E8EEF8"/><text x="60" y="106" text-anchor="middle" font-size="34">🧇</text>
+  <text x="108" y="90" font-size="24" font-weight="800" fill="#1C2433" letter-spacing="-0.8">와플대학교</text>
+  <text x="108" y="116" font-size="13.5" font-weight="600" fill="#5B6880">컴퓨터공학부 (수석 입학)</text>
+  <rect x="384" y="70" width="68" height="26" rx="13" fill="#FDE8E4"/><text x="418" y="88" text-anchor="middle" font-size="12" font-weight="800" fill="#E8654F">🥇 수석</text>
+  <rect x="28" y="150" width="424" height="56" rx="10" fill="#FFFFFF" stroke="#E1E7F0"/>
+  <text x="44" y="172" class="k">전공</text><text x="44" y="194" class="v">애플시나몬 크런치 코딩 전공 (토핑: 카페인 샷 추가 ☕)</text>
+  <rect x="28" y="214" width="424" height="56" rx="10" fill="#FFFFFF" stroke="#E1E7F0"/>
+  <text x="44" y="236" class="k">비고</text><text x="44" y="258" class="v">와플 굽듯이 매일 서버 노릇노릇하게 태워먹는 중 🔥</text>
+</svg>

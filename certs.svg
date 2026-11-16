@@ -1,0 +1,9 @@
+<svg width="800" height="170" viewBox="0 0 800 170" xmlns="http://www.w3.org/2000/svg" font-family="'Pretendard','Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <style>.c{font-size:13.5px;font-weight:700;fill:#1C2433}</style>
+  <rect x="0.5" y="0.5" width="799" height="169" rx="16" fill="#F5F7FB" stroke="#E1E7F0"/>
+  <text x="28" y="40" font-size="12" font-weight="700" fill="#3B5B8F" letter-spacing="1">🏅 보유 자격증</text>
+  <rect x="28" y="58" width="364" height="42" rx="21" fill="#FFFFFF" stroke="#E1E7F0"/><text x="48" y="84" class="c">✅ "제 컴퓨터에선 되는데요" 1급</text>
+  <rect x="408" y="58" width="364" height="42" rx="21" fill="#FFFFFF" stroke="#E1E7F0"/><text x="428" y="84" class="c">✅ 커밋 메시지 'fix' 장인</text>
+  <rect x="28" y="110" width="364" height="42" rx="21" fill="#FFFFFF" stroke="#E1E7F0"/><text x="48" y="136" class="c">✅ Ctrl+C / Ctrl+V 마스터</text>
+  <rect x="408.5" y="110.5" width="363" height="41" rx="20.5" fill="none" stroke="#C5D0E2" stroke-dasharray="5 4"/><text x="428" y="136" class="c" style="fill:#8C9AB3;text-decoration:line-through">금요일 배포 금지 자격증</text><text x="752" y="136" text-anchor="end" font-size="12" font-weight="800" fill="#E8654F">취득 실패</text>
+</svg>

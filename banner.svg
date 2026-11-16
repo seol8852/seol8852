@@ -1,15 +1,16 @@
-<svg width="800" height="340" viewBox="0 0 800 340" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="798" height="338" rx="10" fill="#F4F1E9" stroke="#D9D8CE" stroke-width="2"/>
-  <path d="M32 29H768" stroke="#C5C8BD"/>
-  <path d="M32 28H110" stroke="#F26B4F" stroke-width="3"/>
-  <text x="39" y="51" fill="#626A63" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="800" letter-spacing="2">CORE PHILOSOPHY</text>
-  <text x="39" y="102" fill="#19221E" font-family="'Pretendard', 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="27" font-weight="900" letter-spacing="-1">"정규야, 네가 '정규화'할 때 난 '설계'한다."</text>
-  <path d="M32 127H768" stroke="#BFC4B8"/>
-  <path d="M32 179H768" stroke="#D3D5CB"/>
-  <path d="M32 231H768" stroke="#D3D5CB"/>
-  <path d="M32 283H768" stroke="#BFC4B8"/>
-  <text x="39" y="163" fill="#27302B" font-family="'Pretendard', 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.5">⚙️   시스템 <tspan fill="#E75D43" font-weight="900">[설]</tspan>계부터</text>
-  <text x="39" y="215" fill="#27302B" font-family="'Pretendard', 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.5">🔍   변수 유효 <tspan fill="#E75D43" font-weight="900">[범]</tspan>위 체크,</text>
-  <text x="39" y="267" fill="#27302B" font-family="'Pretendard', 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.5">📏   코딩 표준 <tspan fill="#E75D43" font-weight="900">[준]</tspan>수까지.</text>
-  <text x="39" y="316" fill="#626A63" font-family="'Pretendard', 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="14" font-weight="700" letter-spacing="-0.2">🚀  완벽하게 <tspan fill="#E75D43" font-weight="900">[준]</tspan>비된 개발자, 설범준</text>
+<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" font-family="'Pretendard','Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <style>.h{fill:#E8654F;font-weight:800}.t{font-size:17px;font-weight:700;fill:#1C2433;letter-spacing:-0.4px}.n{font-size:12px;font-weight:700;fill:#3B5B8F}</style>
+  <rect x="0.5" y="0.5" width="799" height="299" rx="16" fill="#F5F7FB" stroke="#E1E7F0"/>
+  <path d="M16.5 .5h300v299h-300a16 16 0 0 1-16-16V16.5a16 16 0 0 1 16-16z" fill="#3B5B8F"/>
+  <text x="36" y="48" font-size="12" font-weight="700" fill="#AFC2E2" letter-spacing="1">CORE PHILOSOPHY</text>
+  <text x="36" y="96" font-size="40" font-weight="900" fill="#FFB4A6">“</text>
+  <text font-size="24" font-weight="800" fill="#FFFFFF" letter-spacing="-0.8"><tspan x="36" y="128">정규야, 네가</tspan><tspan x="36" y="162">'정규화'할 때</tspan><tspan x="36" y="196">난 '설계'한다."</tspan></text>
+  <text x="36" y="262" font-size="13" font-weight="600" fill="#D5E0F2">🚀  완벽하게 <tspan fill="#FFB4A6" font-weight="800">[준]</tspan>비된 개발자, 설범준</text>
+  <g>
+    <text x="352" y="70" class="n">STEP 01</text><text x="352" y="98" class="t">⚙️  시스템 <tspan class="h">[설]</tspan>계부터</text>
+    <line x1="352" y1="124" x2="764" y2="124" stroke="#E1E7F0"/>
+    <text x="352" y="156" class="n">STEP 02</text><text x="352" y="184" class="t">🔍  변수 유효 <tspan class="h">[범]</tspan>위 체크,</text>
+    <line x1="352" y1="210" x2="764" y2="210" stroke="#E1E7F0"/>
+    <text x="352" y="242" class="n">STEP 03</text><text x="352" y="270" class="t">📏  코딩 표준 <tspan class="h">[준]</tspan>수까지.</text>
+  </g>
 </svg>

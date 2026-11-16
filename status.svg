@@ -1,0 +1,16 @@
+<svg width="310" height="290" viewBox="0 0 310 290" xmlns="http://www.w3.org/2000/svg" font-family="'Pretendard','Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <style>.l{font-size:11.5px;font-weight:600;fill:#5B6880}.p{font-size:22px;font-weight:800;fill:#1C2433;letter-spacing:-0.5px}</style>
+  <rect x="0.5" y="0.5" width="309" height="289" rx="16" fill="#F5F7FB" stroke="#E1E7F0"/>
+  <text x="24" y="40" font-size="12" font-weight="700" fill="#3B5B8F" letter-spacing="1">📟 오늘의 상태</text>
+  <rect x="24" y="60" width="126" height="98" rx="12" fill="#FFFFFF" stroke="#E1E7F0"/>
+  <text x="40" y="86" class="l">☕ 카페인</text><text x="40" y="124" class="p">97%</text>
+  <rect x="40" y="136" width="94" height="4" rx="2" fill="#E1E7F0"/><rect x="40" y="136" width="91" height="4" rx="2" fill="#3B5B8F"/>
+  <rect x="160" y="60" width="126" height="98" rx="12" fill="#FDE8E4" stroke="#F7CFC6"/>
+  <text x="176" y="86" class="l">🐛 버그</text><text x="176" y="128" class="p" style="fill:#E8654F;font-size:30px">∞</text>
+  <rect x="24" y="168" width="126" height="98" rx="12" fill="#FFFFFF" stroke="#E1E7F0"/>
+  <text x="40" y="194" class="l">😴 수면</text><text x="40" y="232" class="p">12%</text>
+  <rect x="40" y="244" width="94" height="4" rx="2" fill="#E1E7F0"/><rect x="40" y="244" width="11" height="4" rx="2" fill="#3B5B8F"/>
+  <rect x="160" y="168" width="126" height="98" rx="12" fill="#FFFFFF" stroke="#E1E7F0"/>
+  <text x="176" y="194" class="l">🚀 배포 자신감</text><text x="176" y="232" class="p">3%</text>
+  <rect x="176" y="244" width="94" height="4" rx="2" fill="#E1E7F0"/><rect x="176" y="244" width="4" height="4" rx="2" fill="#3B5B8F"/>
+</svg>
